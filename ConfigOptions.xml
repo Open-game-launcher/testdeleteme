@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<config_options>
+	<op ver="0.1" ip="login1.dboclassic.org" port="20200"/>
+	<local ver="0.1" local_dsp=".\language\local_data.dat" local_sync_dsp=".\language\local_sync_data.dat"/>
+	<BUGTRAP ip="login1.dboclassic.org" port ="9999" folder="DBOClassic"/>
+</config_options>
